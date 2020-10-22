@@ -1,0 +1,13 @@
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\bin\Debug\netcoreapp3.1\BÀI TH SỐ 2.exe
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\bin\Debug\netcoreapp3.1\BÀI TH SỐ 2.deps.json
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\bin\Debug\netcoreapp3.1\BÀI TH SỐ 2.runtimeconfig.json
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\bin\Debug\netcoreapp3.1\BÀI TH SỐ 2.runtimeconfig.dev.json
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\bin\Debug\netcoreapp3.1\BÀI TH SỐ 2.dll
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\bin\Debug\netcoreapp3.1\BÀI TH SỐ 2.pdb
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\obj\Debug\netcoreapp3.1\BÀI TH SỐ 2.csprojAssemblyReference.cache
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\obj\Debug\netcoreapp3.1\BÀI TH SỐ 2.csproj.CoreCompileInputs.cache
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\obj\Debug\netcoreapp3.1\BÀI TH SỐ 2.AssemblyInfoInputs.cache
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\obj\Debug\netcoreapp3.1\BÀI TH SỐ 2.AssemblyInfo.cs
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\obj\Debug\netcoreapp3.1\BÀI TH SỐ 2.dll
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\obj\Debug\netcoreapp3.1\BÀI TH SỐ 2.pdb
+E:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\BÀI TH SỐ 1\BÀI TH SỐ 2\BÀI TH SỐ 2\obj\Debug\netcoreapp3.1\BÀI TH SỐ 2.genruntimeconfig.cache
